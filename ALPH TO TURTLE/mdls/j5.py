@@ -1,12 +1,11 @@
 import turtle
+
 turtle.lt(90)
 turtle.fd(100)
-turtle.rt(150)
-turtle.fd(120)
-turtle.setheading(90)
+turtle.setheading(270)
 turtle.fd(100)
+turtle.circle(-25,180)
 turtle.pu()
-turtle.bk(100)
 turtle.setheading(0)
-turtle.fd(50)
+turtle.fd(100)
 turtle.pd()
