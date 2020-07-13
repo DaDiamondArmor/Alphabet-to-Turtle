@@ -1,0 +1,16 @@
+import turtle 
+
+turtle.lt(90)
+turtle.forward(100)
+turtle.bk(50)
+turtle.setheading(0)
+turtle.circle(25,180)
+turtle.setheading(270)
+turtle.fd(50)
+turtle.setheading(0)
+turtle.rt(45)
+turtle.fd(75)
+turtle.pu()
+turtle.setheading(0)
+turtle.fd(50)
+turtle.pd()
